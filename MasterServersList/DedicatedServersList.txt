@@ -22,6 +22,8 @@ kerbal.tayaut.net:8800
 kerbal.tayaut.net:8801
 #Lotka
 kerbal.lotka.tk:8800
+#TheDownUnderDunDickers
+175.39.122.155:8800
 #Stratzenblitz75 Community Servers
 s75community.ddns.net:2401
 s75community.ddns.net:2700
